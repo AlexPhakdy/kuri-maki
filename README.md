@@ -39,7 +39,3 @@ A **functional website** with:
 
 ---
 
-## **Next Steps**
-- Add additional pages or features as needed  
-- Integrate a contact form or inquiry system for catering requests  
-- Optional: deploy to a hosting platform for public access
